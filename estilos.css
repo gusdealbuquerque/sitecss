@@ -1,0 +1,36 @@
+body {
+    background: mediumaquamarine;
+    background-size: auto 100vh;
+    height: 100vh;
+    background-image:
+      url('https://www.freepik.com/free-vector/black-neural-texture-abstract-vector_4044739.htm');
+  font-family: trebuchet ms;  
+  }
+  .menu{
+      background-color: wheat;
+      font-family: arial;
+      }
+  .menu li{
+    list-style: none;
+    }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  } 
+  a{
+    text-decoration: none;
+    color: teal;
+    }
+  a:hover{
+    text-decoration: underline;
+  }
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+    font-style: bold;
+  }
+  .site-subtitle{
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+  }
